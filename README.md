@@ -2,34 +2,36 @@
 
 This repository contains the frontend codebase for the Custom FSL HoneyGlow online business platform.
 
-Project Overview
+## About the Project
 
-Custom FSL HoneyGlow is an e-commerce website designed to sell imported products within Bangladesh (BD). The platform supports product showcasing, online sales, and customer interaction, with scalability in mind for future expansion.
+Custom FSL HoneyGlow is an e-commerce website focused on selling imported products within Bangladesh (BD). The platform is built to provide a smooth online shopping experience and support future business expansion.
 
-Purpose
+This frontend repository is developed for the main website and is also intended to serve as the foundation for a future ERP (Enterprise Resource Planning) frontend system.
 
-Provide a modern, user-friendly e-commerce frontend
+## Objectives
 
-Support the sale of imported products to the local Bangladeshi market
+- Build a modern and responsive e-commerce frontend
+- Sell imported products to the local Bangladeshi market
+- Prepare the frontend architecture for future ERP integration
 
-Serve as the foundation for a future ERP frontend system
+## Features
 
-Key Features (Planned & Existing)
+- Product listing and product detail pages
+- User-friendly shopping experience
+- Responsive design for mobile and desktop
+- Backend and ERP integration-ready structure
 
-Product listing and detail pages
+## Future Scope
 
-Shopping cart and checkout flow
+- ERP dashboard and modules
+- Inventory and order management interface
+- Admin panel and user role management
+- Business analytics and reporting UI
 
-Responsive and mobile-friendly UI
+## Technology Stack
 
-Integration-ready architecture for backend and ERP systems
+React, Next.js, Vue, Tailwind CSS 
 
-Future Scope
+## License
 
-ERP dashboard integration
-
-Inventory and order management UI
-
-User roles and admin panel
-
-Analytics and reporting interfaces
+This project is proprietary and intended for internal business use.
